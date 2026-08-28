@@ -1,5 +1,5 @@
 
-## 📄 Example `README.md`
+## 📄 `README.md`
 
 ```markdown
 # 🎉 CodeAlpha Tasks - August Batch
