@@ -60,5 +60,5 @@ codealpha_tasks/
 
 ## 👨‍💻 Author
 - **Name**: Mohamine GNAMBRE  
-- **Email**: gnambremohamine26@gmail.com  
+- **Email**: mohaminegnambre994@gmail.com  
 - **Phone**: +226 64145279  
